@@ -79,8 +79,8 @@ public class lls {
         list.Last(4);
         list.Last(5);
         list.printlist();
-        }
 
         System.out.println("\nName: Syed Muhammad Huzaifa Raza\n"+"Seat number: EB25210006097\n"+"Section A");
 
+        }
 }
